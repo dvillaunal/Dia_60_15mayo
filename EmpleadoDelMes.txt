@@ -1,0 +1,2 @@
+"Nombres","Metas","Ventas","Sueldo_Base","comision","Sueldo_Bruto","%Ventas_s/total","Bool_Metas"
+"Orlando",9395091,7979423,90000,159588.46,259588.46,0.015,TRUE

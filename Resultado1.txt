@@ -1,0 +1,8 @@
+"Estadistico","Resultado"
+"Media","96.06"
+"Mediana","102"
+"Moda","45"
+"Rango","45"
+"Varianza","3686.75"
+"Desviación Estandar","60.72"
+"CD's vendidos en Total","132522"
