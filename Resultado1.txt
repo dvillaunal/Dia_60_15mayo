@@ -4,5 +4,5 @@
 "Moda","45"
 "Rango","45"
 "Varianza","3686.75"
-"Desviación Estandar","60.72"
+"DesviaciÃ³n Estandar","60.72"
 "CD's vendidos en Total","132522"
